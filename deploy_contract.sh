@@ -7,7 +7,6 @@ fi
 
 data_dir=$1
 interval=$2
-ip="127.0.0.1"
 
 # deploy contract
 # ether shortage is OK, just move on
